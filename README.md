@@ -6,7 +6,7 @@ Desafio para iniciantes em programação com HTML E CSS básico <br/>
 
 
 <p align="center">
-  <img alt="projeto-explorer-basico" src="./image/img.png">
+  <img alt="projeto-explorer-basico" src="./images/Screenshot_5.png">
 </p>
 
 ## 🚀 Tecnologias
